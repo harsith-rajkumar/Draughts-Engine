@@ -1,3 +1,4 @@
+//g++ -O2 Draughts.cpp -o Draughts.exe
 #include <bits/stdc++.h>
 #include <conio.h>
 using namespace std;
